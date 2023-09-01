@@ -1,0 +1,37 @@
+[
+    {
+        "id_event": 1,
+        "image_avatar":"https://github.com/aiwiki/image_member/blob/main/z3750462441372_2ab2c6aec407daf1c2d85bc050513c67.jpg?raw=true",
+        "name_event": "Khóa học training python cho K18, K19 trong 5 tuần",
+        "time": "2023-09-01",
+        "id_user": 22
+    },
+    {
+        "id_event": 2,
+        "image_avatar":"https://github.com/aiwiki/image_member/blob/main/event_craw_data.jpg?raw=true",
+        "name_event": "Khóa học cào dữ liệu Python",
+        "time": "2023-09-01",
+        "id_user": 2
+    },
+    {
+        "id_event": 3,
+        "image_avatar":"https://github.com/aiwiki/image_member/blob/main/course_machine_learning.png?raw=true",
+        "name_event": "Khóa học machine learning",
+        "time": "2023-09-01",
+        "id_user": 22
+    },
+    {
+        "id_event": 4,
+        "image_avatar":"https://github.com/aiwiki/image_member/blob/main/Deep-Learning-training.jpg?raw=true",
+        "name_event": "Khóa học deep learning",
+        "time": "2023-09-01",
+        "id_user": 22
+    },
+    {
+        "id_event": 5,
+        "image_avatar":"https://github.com/aiwiki/image_member/blob/main/statistic_course.png?raw=true",
+        "name_event": "Khóa học xắc suất trong trí tuệ nhân tạo",
+        "time": "2023-09-01",
+        "id_user": 22
+    }
+]
